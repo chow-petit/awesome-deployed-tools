@@ -40,7 +40,7 @@ As always, your contributions are welcome !
 * [**E-Mails**](#e-mails)
 * [**Content Management Systems**](#content-management-systems)
 * [**Security**](#security)
-* [**Audio/Video, Meetings, Streaming & Conferencing**](#audio/video,-meetings,-streaming-&-conferencing)
+* [**Audio/Video, Meetings, Streaming & Conferencing**](#audio/video-meetings-streaming-&-conferencing)
 * [**Cloud Storage & Document edition**](#cloud-storage-&-document-edition)
 * [**Static Web**](#static-web)
 * [**Intelligence / Knowledge Management**](#intelligence-/-knowledge-management)
