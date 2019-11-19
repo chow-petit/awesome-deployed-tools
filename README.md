@@ -246,3 +246,8 @@ Have an idea of a tool that should be on this list? Here's how you can add it:
  * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
 Thank you [Drew Wilson](https://drewrwilson.com) for this part.
 
+---
+
+[<center>This document is under a Creative Commons CC-BY-SA 4.0 license.</center>]((http://creativecommons.org/licenses/by-sa/4.0/))
+
+<img style="display: block; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="40%">
