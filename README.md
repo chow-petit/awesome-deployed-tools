@@ -50,7 +50,7 @@ As always, your contributions are welcome !
 * [**Hardware**](#hardware)
 * [**Software on Computers**](#software-on-computers)
 * [**References**](#references)
-* [**How to contribute to this list**](#how-do-i-contribute-to-to-this-list)
+* [**How to contribute to this list**](#how-do-i-contribute-to-this-list)
 
 
 ## Project management
