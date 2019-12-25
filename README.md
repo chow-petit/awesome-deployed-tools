@@ -150,6 +150,8 @@ To discover what these are about, their similarities and differences: https://us
 * [Evernote](https://evernote.com/) - A cross-platform app designed for note taking, organizing, tasks lists, including a web content clipper and archiving capabilities. Evernote Web Clipper, used with tags and Zapier, is a very powerful automation tool.
 * [Pocket](https://getpocket.com/) - Ideal for future reading and consultation, Pocket puts articles, videos (or pretty much anything) into a dedicated space for easy reference.  Save directly from your browser or from apps.
 
+We also use Nextcloud.
+
 ## Editorial chain
 
 * ![**C&B +1**](https://img.shields.io/badge/C%26B-%2B1-brightgreen.svg) ![**Open Source**](https://img.shields.io/badge/Open-Source-blue.svg) [CodiMD](https://demo.codimd.org/) - Realtime collaborative markdown notes on all platforms.
